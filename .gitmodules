@@ -1,0 +1,3 @@
+[submodule "practice-subpj"]
+	path = practice-subpj
+	url = git@github.com:peryu1ch/practice-subpj.git
